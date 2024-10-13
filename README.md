@@ -1,2 +1,1 @@
-https:// annabeatrizsuritamanuel.github.io.
-/
+https://annabeatrizsuritamanuel.github.io./loja-de-pelucias
