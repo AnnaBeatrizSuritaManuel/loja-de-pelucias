@@ -1,19 +1,31 @@
-header{
-
+body {
+    background-color: #f8f9fa; 
+}
+.card {
+    background-color: #e0f7fa; 
+    border: 1px solid #007bff; /
 }
 
-section{
-
+.card-title {
+    color: #333333; 
 }
 
-main{
-
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
 }
 
-h1{
-
+.btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
 }
 
-h2{
-
+h1,h2{
+    text-align: center;
 }
+.titulo-espaco {
+    margin-bottom: 40px;}
+    
+.form-espaco {
+        margin-bottom: 40px;
+    }
